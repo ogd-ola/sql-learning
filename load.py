@@ -28,8 +28,8 @@ import csv
 import sqlite3
 
 DB_PATH = "ttc_delays.db"
-DELAYS_CSV = "TTC Subway Delay Data since 2025.csv"
-CODES_CSV = "Code Descriptions.csv"
+DELAYS_CSV = "data/TTC Subway Delay Data since 2025.csv"
+CODES_CSV = "data/Code Descriptions.csv"
 
 DELAYS_COLUMNS = 11
 CODES_COLUMNS = 3
